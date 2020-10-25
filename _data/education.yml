@@ -1,0 +1,19 @@
+- layout: left
+  name: B.Tech | CGC-COE
+  dates: 2014-2018
+  qualification: Computer Science Engineering
+  quote: >
+    Gold Medalist | Scored 86.6% | CGC College of Engineering, Punjab India
+  description: | # this will include new lines to allow paragraphs
+    > During my college time I focused on my primary CS Subjects/Programming skills which included understanding of **<mark>Data Structures</mark> <mark>Algorithms</mark> <mark>Database</mark> <mark>Operating Systems</mark> and <mark>Networking</mark>**. I got chance to work on numerous projects that helped me practice different Programming languages like **<mark>C</mark> <mark>C++</mark> <mark>Java</mark> <mark>Python</mark> <mark>C#</mark> <mark>Node.js</mark> <mark>HTML</mark>** etc. I worked on many Android, Windows & Web Application Development projects and also published several Android Apps on **<a href="https://play.google.com/store/apps/developer?id=VishalSingh" style="color:#FFFFFF;"><mark> Google Play Store </mark></a>**.
+    
+    > I was elected as Class Representative consistently for entire duration of my college (4 yrs.), served as Head Placement Coordinator, also organised many events, conducted seminars, coordinated with college management and successfully hosted other similar functions. I participated in various project exhibitions/competitions and grabbed 1st position twice in a National & a State-Level event and also stood at 3rd place for a regional competition. I own a **<mark>Patent (c-Pad)</mark>** published for one my project ideas. Also got placed in 3 big MNCs namely **<mark>Amazon, Dell & Wipro</mark>** during my College Campus Placement Drives.
+
+- layout: left
+  name: SGRR Public School
+  dates: 1998-2013
+  qualification: Science (Non-Medical Stream)
+  quote: >
+    Scored: 12th CBSE 88% | 10th CBSE 9.8 CGPA | Punjab, India
+  description: | # this will include new lines to allow paragraphs
+    > Always enjoyed Mathematics, Physics & In-Organic Chemistry, more than any other subjects. Organic Chemistry was never my cup of tea. Consistently stood top in my academics and actively participated in all the extra-curricular activities conducted at School. Always elected for Class Monitor, choosen Head Boy of the school, hosted school Annual functions, organised Sports events, participated in Cricket/Volleyball/Football tournaments, drawing/painting, debate competitions, etc. 

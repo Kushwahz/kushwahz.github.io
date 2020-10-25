@@ -1,0 +1,20 @@
+- layout: left
+  name: GitHub
+  link: github.com/Kushwahz
+  description: | # this will include new lines to allow paragraphs
+    Experience developing many full-fledged Android Applications, Java Desktop Applications, Scripting & Web Development projects.
+
+- layout: left
+  name: Android Applicaton
+  description: | # this will include new lines to allow paragraphs
+    **<a href="https://github.com/Kushwahz/c-Pad" style="color:#FFFFFF;"><mark> c-Pad </mark></a>-<a href="https://github.com/Kushwahz/TweeLinks" style="color:#FFFFFF;"><mark> TweeLinks </mark></a>-<a href="https://github.com/Kushwahz/HelpMeVishal" style="color:#FFFFFF;"><mark> HelpMeVishal </mark></a>-<a href="https://github.com/Kushwahz/DellCollab" style="color:#FFFFFF;"><mark> DellCollab </mark></a>-<a href="https://github.com/Kushwahz/SpinTheBottle" style="color:#FFFFFF;"><mark> Spin the Bottle </mark></a>-<a href="https://github.com/Kushwahz/E-Visiting-Card" style="color:#FFFFFF;"><mark> E-Visiting Card </mark></a>-<a href="https://github.com/Kushwahz/MySecureContacts" style="color:#FFFFFF;"><mark> Secure Contacts </mark></a>-<a href="https://github.com/Kushwahz/CryptoGraphy" style="color:#FFFFFF;"><mark> CryptoGraphy </mark></a>-<a href="https://github.com/Kushwahz/Parivartan-2K15" style="color:#FFFFFF;"><mark> Parivartan 2K15 </mark></a>-<a href="https://github.com/Kushwahz/Simple-Calculator" style="color:#FFFFFF;"><mark> Calculator </mark></a>**
+
+- layout: left
+  name: Windows Applicaton
+  description: | # this will include new lines to allow paragraphs
+    **<a href="https://github.com/Kushwahz/DS-Manager" style="color:#FFFFFF;"><mark> Demand & Supply Workforce Manager </mark></a>-<a href="https://github.com/Kushwahz/AEM-Crawler" style="color:#FFFFFF;"><mark> AEM Crawler </mark></a>**
+    
+- layout: left
+  name: Miscellaneous
+  description: | # this will include new lines to allow paragraphs
+    **<a href="https://github.com/Kushwahz/NoPP" style="color:#FFFFFF;"><mark> NoPP </mark></a>-<a href="https://github.com/Kushwahz/kushwahz.github.io" style="color:#FFFFFF;"><mark> Resume </mark></a>-<a href="https://github.com/Kushwahz/CollegeBook" style="color:#FFFFFF;"><mark> College Book </mark></a>-<a href="https://github.com/Kushwahz/M2A" style="color:#FFFFFF;"><mark> M2A </mark></a>**

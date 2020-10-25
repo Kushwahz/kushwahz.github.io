@@ -1,0 +1,65 @@
+# Site
+repository: Kushwahz/kushwahz.github.io
+favicon: images/favicon.ico
+
+# Personal info
+name: Vishal Singh
+title: AWS Cloud Support Engineer
+email: life.vishalsingh@gmail.com
+website: vishalsingh.life/resume
+
+# Social links
+#twitter_username: facespics
+github_username:  kushwahz
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+#instagram_username: chillwildlife
+linkedin_username: kushwahz
+# pinterest_username: jekyll
+#youtube_username: globalmtb
+# googleplus_username: +jekyll
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hi my name is Vishal and I am presently working as a Cloud Support Engineer at Amazon Web Services, Hyderabad India. I have bachelor’s degree (B.Tech) in Computer Science Engineering. While working with AWS, I have mastered numerous AWS Services where I learnt the fundamentals & underlying principles of Cloud Computing. As a Cloud Engineer at AWS, my role is to provide technical assistance to AWS Enterprise, Business & Developer Customers with provisioning their resources, architecting solutions & troubleshooting their hosted environment on AWS Cloud infrastructure. 
+
+  Since my college days, I have keen interest in developing Android, Windows Desktop and Web Applications. My projects involve diverse full-fledged developed apps that have helped me practice, learn and grow as a full stack developer. I find myself extreme passionate about devising ideas and developing robust solutions to any challenge that I come across. I am planning to explore Software development domain and would love to contribute as an individual who has potential to make this world a better place.
+  
+  **Skills: <mark>AWS</mark> <mark>Software Development</mark> <mark>Teaching</mark> <mark>Discussing Space Exploration to Become an Interstellar Species</mark>**
+
+  **Certifications: <a href="https://www.youracclaim.com/badges/175aa9e3-09b0-4142-82d1-bc40a4296ab2/public_url" style="color:#FFFFFF;"><mark> AWS Certified Developer </mark></a>-<a href="https://www.youracclaim.com/badges/796eeeb9-32bd-4d43-a38e-180215cccf5f/public_url" style="color:#FFFFFF;"><mark> AWS Certified Solution Architect </mark></a>-<a href="https://www.youracclaim.com/badges/443c59ee-204e-4a29-844a-aba1fdd3324e/public_url" style="color:#FFFFFF;"><mark> AWS Certified Cloud Practicioner </mark></a>** 
+
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+# more_title: A Little More About Me
+more_content: | # this will include new lines to allow paragraphs
+  Alongside my interests in software development some of my other interests and hobbies are:
+   - Cooking/Eating
+   - Interior Design/Home Decor
+   - Editing Videos/Pictures 
+   - Exploring **<a href="https://en.wikipedia.org/wiki/Elon_Musk" style="color:#FFFFFF;"><mark> Elon Musk's Venture</mark></a>**
+   - Watching **<a href="https://curiositystream.com/" style="color:#FFFFFF;"><mark> Curiosity Stream (Astronomy)</mark></a>** 
+   - Body Building (Just plan, rarely practice :P) 
+   - Preparing my move to Mars (**<a href="https://en.wikipedia.org/wiki/SpaceX_Mars_program" style="color:#FFFFFF;"><mark> SpaceX </mark></a>**)
+# Footer
+footer_show_references: false
+# Theme
+darkmode: true
+# Build settings
+remote_theme: sproogen/resume-theme
+sass:
+  sass_dir: _sass
+  style: compressed
+plugins:
+ - jekyll-seo-tag

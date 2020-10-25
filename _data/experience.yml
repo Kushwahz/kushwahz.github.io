@@ -1,0 +1,39 @@
+- layout: left
+  company: Amazon Web Services
+  link: www.aws.amazon.com
+  jobs:
+    - title: AWS Cloud Support Engineer
+      dates: October 2020 - Present
+    - title: AWS Cloud Support Associate II
+      dates: June 2019 - September 2020
+    - title: AWS Cloud Support Associate I
+      dates: June 2018 - May 2019
+  quote: >
+   Transformed the On-Premise infrastucture by providing on-demand cloud computing platforms and APIs to individuals, companies, and governments, on a metered pay-as-you-go basis.
+  description: | # this will include new lines to allow paragraphs
+   > Work with AWS Premium Support Windows Team and assist AWS Enterprise, Business & Developer Customers.
+   > Resolved 800+ AWS Premium Support Cases and Exchanged 2400+ Correspondences.
+   > Achieved 120+ Positive Ratings (5/5) and Zero Negative Rating/Feedback Record.
+   > Always focus on the quality research & lab experiments. 
+   > Served as VOTE Lead (Voice of the Engineer) and Conducted & Organised various Team building activities, etc.
+   > Breadth of AWS Services include: Compute | EC2, WorkSpaces, AppStream, Lambda. Management | Systems Manager, Directory Services, CloudFormation, Auto Scaling, CloudTrail, CloudWatch. Storage | S3, FSx Windows. Database | RDS, DynamoDB. Migration | SMS, CloudEndure, VM Import/Export. Network | VPC, Route53, ELB, API Gateway. Developer | CodeCommit, CodeDeploy, CodePipeline
+   > **<a href="https://drive.google.com/file/d/1FAhILlAULaUUfvUwRh3nBvt2ksMlsIF1/view?usp=sharing" style="color:#FFFFFF;"><mark> Management & Peer's Feedback </mark></a>**.
+  
+- layout: left
+  company: Dell India Pvt. Ltd.
+  link: dell.com
+  job_title: Winter Intern
+  dates: Jan 2018 - May 2018
+  quote: >
+    An American multinational computer technology company that develops, sells, repairs, and supports computers and related products and services.
+  description: | # this will include new lines to allow paragraphs
+   > I got an opportunity to work on an automation tool where I developed a full-fledged Windows Desktop application using JavaFX to address the concerned challenges. My project was **<a href="https://github.com/Kushwahz/DS-Manager" style="color:#FFFFFF;"><mark>Demand & Supply Workforce Manager</mark></a>** an automation tool development for the generation of a consolidated view of Dashboard that includes all required information with rapid report generation, data manipulation and summary invocation. The idea was to mainly reduce the prolonged manual effort in every team meeting for the business
+   > **<a href="https://drive.google.com/file/d/1-Lw0xWdExpTuSYbk1NF2AQgMhc9VrjAx/view?usp=sharing" style="color:#FFFFFF;"><mark> Management & Peer's Feedback </mark></a>**.
+
+- layout: left
+  company: Dell India Pvt. Ltd.
+  link: dell.com
+  job_title: Summer Intern
+  dates: May 2017 - June 2017
+  description: | # this will include new lines to allow paragraphs
+   > I was assigned a project to automate the quality review process of dell.com webpages. In the organization, developer spends x amount of time on updating a page, while a quality reviewer spends x+1 amount of time to perform the quality check on the same page. I built a desktop application **<a href="https://github.com/Kushwahz/AEM-Crawler" style="color:#FFFFFF;"><mark>AEM crawler</mark></a>** which is an endeavour to reduce the time spent on peer reviewing the pages. Using the developed tool, the whole process was automated with almost all quality checklist points covered and then hundreds of hours of work is reduced to only few minutes.
